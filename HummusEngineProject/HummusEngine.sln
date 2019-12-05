@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{AEC4C5E2-9192-40DF-B0AE-B2CA2B17CA4F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HummusEngine", "HummusEngine\HummusEngine.vcxproj", "{2F2573B7-A06C-456C-8CF5-B5664FA4AA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC4C5E2-9192-40DF-B0AE-B2CA2B17CA4F}.Debug|x64.ActiveCfg = Debug|x64
+		{AEC4C5E2-9192-40DF-B0AE-B2CA2B17CA4F}.Debug|x64.Build.0 = Debug|x64
+		{AEC4C5E2-9192-40DF-B0AE-B2CA2B17CA4F}.Release|x64.ActiveCfg = Release|x64
+		{AEC4C5E2-9192-40DF-B0AE-B2CA2B17CA4F}.Release|x64.Build.0 = Release|x64
+		{2F2573B7-A06C-456C-8CF5-B5664FA4AA57}.Debug|x64.ActiveCfg = Debug|x64
+		{2F2573B7-A06C-456C-8CF5-B5664FA4AA57}.Debug|x64.Build.0 = Debug|x64
+		{2F2573B7-A06C-456C-8CF5-B5664FA4AA57}.Release|x64.ActiveCfg = Release|x64
+		{2F2573B7-A06C-456C-8CF5-B5664FA4AA57}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BB09D41-95BA-4C17-A2D3-F22FDEB16058}
+	EndGlobalSection
+EndGlobal
